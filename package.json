@@ -1,0 +1,22 @@
+{
+  "name": "json",
+  "version": "0.0.1",
+  "description": "JSON - JavaScript Implementation ",
+  "main": "json.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/differui/json.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "BinRui.Guan <differui@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/differui/json/issues"
+  },
+  "homepage": "https://github.com/differui/json#readme"
+}
